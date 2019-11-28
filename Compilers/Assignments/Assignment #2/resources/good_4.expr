@@ -1,0 +1,3 @@
+"radius is" 10
+"pi is" 3.1415
+"area of this circle as an integer is" (3.1415 * 10^2):0

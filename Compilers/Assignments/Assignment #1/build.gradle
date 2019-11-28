@@ -1,0 +1,22 @@
+plugins {
+    id 'antlr'
+    id 'application'
+}
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    antlr 'org.antlr:antlr4:4.7.2'
+    compile 'junit:junit:4.12'
+    testCompile 'junit:junit:4.12'
+
+}
+
+application {
+    mainClassName = 'Main'
+}
+
+apply plugin: 'java'

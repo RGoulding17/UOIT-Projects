@@ -1,0 +1,22 @@
+plugins {
+  id 'application'
+}
+
+repositories {
+  mavenCentral()
+}
+
+dependencies {
+  compile 'junit:junit:4.12'
+  testCompile 'junit:junit:4.12'
+}
+
+application {
+  mainClassName = 'App'
+}
+
+run {
+  args = ['input.txt']
+}
+
+apply plugin: 'java'
