@@ -1,0 +1,5 @@
+login
+USER002
+addcredit
+100
+logout

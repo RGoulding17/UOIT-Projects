@@ -1,0 +1,4 @@
+login
+USER002
+delete
+logout

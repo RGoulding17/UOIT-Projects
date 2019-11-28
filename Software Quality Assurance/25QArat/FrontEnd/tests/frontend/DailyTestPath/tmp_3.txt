@@ -1,0 +1,25 @@
+>> login
+Enter username: martin
+Welcome martin!
+Account: admin
+Balance: $999999.99
+>> create
+Enter username (15 char. max): SOMEUSER01
+Enter the type of user:
+	admin
+	full-standard | fs
+	buy-standard | bs
+	sell-standard | ss
+>> bs
+User 'SOMEUSER01' successfully created!
+>> refund
+Enter the username of the buyer: martin
+Enter the username of the seller: betty
+Enter the refund amount: 100
+martin successfully refunded $100.00 by betty!
+>> advertise
+Enter the item name (19 char. max): Monopoly
+Enter the minimum bid (in dollars): 30
+Enter the number of days for auction (max 100): 14
+'Monopoly' successfully added to the auction!
+>> logout

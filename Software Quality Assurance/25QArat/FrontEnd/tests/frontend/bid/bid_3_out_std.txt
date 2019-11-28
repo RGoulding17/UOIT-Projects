@@ -1,0 +1,8 @@
+>> login
+Enter username: USER004
+Welcome USER004!
+Account: sell-standard
+Balance: $100.00
+>> bid
+ERROR: The user logged in cannot perform this action.
+>> logout

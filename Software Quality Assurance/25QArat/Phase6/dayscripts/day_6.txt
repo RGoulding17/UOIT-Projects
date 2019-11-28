@@ -1,0 +1,10 @@
+login
+devon
+create
+SOMEUSER01
+ss
+advertise
+Checkers
+30
+100
+logout

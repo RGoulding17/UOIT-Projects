@@ -1,0 +1,9 @@
+>> login
+Enter username: USER004
+Welcome USER004!
+Account: sell-standard
+Balance: $100.00
+>> advertise
+Enter the item name (19 char. max): Checkers
+Enter the minimum bid (in dollars): 1000
+ERROR: The max bid allowed is $999.99!

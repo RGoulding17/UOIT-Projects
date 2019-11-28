@@ -1,0 +1,7 @@
+01 User04          FS 000100
+02 User03          BS 000100
+03 Keyboard                  User02          014 000050
+04 Keyboard                  User02          User01          000060
+05 User01          User02          000020
+06 User01          AA 000100
+00 User01          AA 000000

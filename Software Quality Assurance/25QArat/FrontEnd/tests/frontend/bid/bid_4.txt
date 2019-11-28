@@ -1,0 +1,4 @@
+login
+USER003
+bid
+Cheese

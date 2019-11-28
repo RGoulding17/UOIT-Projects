@@ -1,0 +1,10 @@
+>> login
+Enter username: USER001
+Welcome USER001!
+Account: admin
+Balance: $100.00
+>> addcredit
+Enter the amount of credit to add: 100
+Enter the username to add credit to: USER003
+Success! Added $100.00 credit to 'USER003'.
+>> logout

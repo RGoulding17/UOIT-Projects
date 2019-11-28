@@ -1,0 +1,2 @@
+>> delete
+ERROR: No user is logged in.

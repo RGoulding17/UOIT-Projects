@@ -1,0 +1,8 @@
+>> login
+Enter username: USER001
+Welcome USER001!
+Account: admin
+Balance: $100.00
+>> login
+ERROR: A user is already logged in!
+>> logout

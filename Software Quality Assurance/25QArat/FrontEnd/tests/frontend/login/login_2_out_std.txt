@@ -1,0 +1,6 @@
+>> login
+Enter username: USER002
+Welcome USER002!
+Account: full-standard
+Balance: $100.00
+>> logout

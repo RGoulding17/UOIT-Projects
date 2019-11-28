@@ -1,0 +1,8 @@
+>> login
+Enter username: USER001
+Welcome USER001!
+Account: admin
+Balance: $100.00
+>> addcredit
+Enter the amount of credit to add: AAA
+ERROR: 'AAA' is not a valid credit value.

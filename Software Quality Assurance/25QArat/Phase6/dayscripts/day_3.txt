@@ -1,0 +1,10 @@
+login
+devon
+create
+SOMEUSER01
+bs
+advertise
+Monopoly
+30
+14
+logout

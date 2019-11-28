@@ -1,0 +1,6 @@
+login
+USER004
+advertise
+Checkers
+30
+101

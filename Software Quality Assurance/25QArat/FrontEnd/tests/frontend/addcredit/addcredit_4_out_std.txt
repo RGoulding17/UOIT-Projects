@@ -1,0 +1,8 @@
+>> login
+Enter username: USER001
+Welcome USER001!
+Account: admin
+Balance: $100.00
+>> addcredit
+Enter the amount of credit to add: 2000
+ERROR: $2000.00 is more than the max of $1000.00.

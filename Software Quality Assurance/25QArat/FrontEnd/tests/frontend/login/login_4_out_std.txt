@@ -1,0 +1,6 @@
+>> login
+Enter username: USER004
+Welcome USER004!
+Account: sell-standard
+Balance: $100.00
+>> logout

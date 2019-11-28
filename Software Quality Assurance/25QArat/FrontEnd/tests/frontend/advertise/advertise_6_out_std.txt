@@ -1,0 +1,2 @@
+>> advertise
+ERROR: No user is logged in.

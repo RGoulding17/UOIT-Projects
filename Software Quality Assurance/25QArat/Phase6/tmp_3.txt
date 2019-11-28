@@ -1,0 +1,44 @@
+>> login
+Enter username: devon
+Welcome devon!
+Account: admin
+Balance: $999999.99
+>> create
+Enter username (15 char. max): SOMEUSER01
+ERROR: The user 'SOMEUSER01' already exists!
+Enter username (15 char. max): bs
+Enter the type of user:
+	admin
+	full-standard | fs
+	buy-standard | bs
+	sell-standard | ss
+>> advertise
+ERROR: 'advertise' is not a valid user type!
+Enter the type of user:
+	admin
+	full-standard | fs
+	buy-standard | bs
+	sell-standard | ss
+>> Monopoly
+ERROR: 'Monopoly' is not a valid user type!
+Enter the type of user:
+	admin
+	full-standard | fs
+	buy-standard | bs
+	sell-standard | ss
+>> 30
+ERROR: '30' is not a valid user type!
+Enter the type of user:
+	admin
+	full-standard | fs
+	buy-standard | bs
+	sell-standard | ss
+>> 14
+ERROR: '14' is not a valid user type!
+Enter the type of user:
+	admin
+	full-standard | fs
+	buy-standard | bs
+	sell-standard | ss
+>> logout
+ERROR: 'logout' is not a valid user type!

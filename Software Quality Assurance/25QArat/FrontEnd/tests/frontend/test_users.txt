@@ -1,0 +1,8 @@
+devon           AA 999999.99
+betty           AA 999999.99
+martin          AA 999999.99
+USER001         AA 000100.00
+USER002         FS 000100.00
+USER003         BS 000100.00
+USER004         SS 000100.00
+

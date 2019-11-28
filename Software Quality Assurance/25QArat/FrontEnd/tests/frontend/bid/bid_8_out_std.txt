@@ -1,0 +1,2 @@
+>> bid
+ERROR: No user is logged in.

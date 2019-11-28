@@ -1,0 +1,9 @@
+>> login
+Enter username: USER001
+Welcome USER001!
+Account: admin
+Balance: $100.00
+>> delete
+Enter the username to delete: USER002
+'USER002' successfully deleted!
+>> logout

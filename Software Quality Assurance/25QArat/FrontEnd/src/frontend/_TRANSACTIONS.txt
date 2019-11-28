@@ -1,0 +1,8 @@
+10 martin          AA 999999.99
+01 testuser        FS 000000.00
+01 haha            SS 000000.00
+03 notebook            martin          020 010.00
+00 martin          AA 999999.99
+10 martin          AA 999999.99
+01 testuser001     BS 000000.00
+00 martin          AA 999999.99

@@ -1,0 +1,14 @@
+login
+martin
+create
+SOMEUSER01
+bs
+refund
+martin
+devon
+100
+advertise
+Checkers
+30
+14
+logout

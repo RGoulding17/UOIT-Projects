@@ -1,0 +1,12 @@
+>> login
+Enter username: USER003
+Welcome USER003!
+Account: buy-standard
+Balance: $100.00
+>> bid
+Enter the item name: Monopoly
+Enter the number of days until auction: 14
+Enter the seller's username: USER001
+Current bid: $30.00
+New bid: 25.00
+ERROR: The new bid must be more than the current bid!

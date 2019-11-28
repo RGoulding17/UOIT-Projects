@@ -1,0 +1,14 @@
+login
+martin
+create
+SOMEUSER01
+bs
+refund
+martin
+betty
+100
+advertise
+Monopoly
+30
+14
+logout

@@ -1,0 +1,2 @@
+>> logout
+ERROR: No user is logged in.

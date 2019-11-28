@@ -1,0 +1,8 @@
+>> login
+Enter username: USER001
+Welcome USER001!
+Account: admin
+Balance: $100.00
+>> create
+Enter username (15 char. max): USER001
+ERROR: The user 'USER001' already exists!

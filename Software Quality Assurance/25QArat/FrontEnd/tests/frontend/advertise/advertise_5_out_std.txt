@@ -1,0 +1,8 @@
+>> login
+Enter username: USER004
+Welcome USER004!
+Account: sell-standard
+Balance: $100.00
+>> advertise
+Enter the item name (19 char. max): All the answers
+ERROR: The item 'All the answers' already exists!

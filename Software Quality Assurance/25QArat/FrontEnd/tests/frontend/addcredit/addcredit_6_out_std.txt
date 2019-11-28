@@ -1,0 +1,2 @@
+>> addcredit
+ERROR: No user is logged in.

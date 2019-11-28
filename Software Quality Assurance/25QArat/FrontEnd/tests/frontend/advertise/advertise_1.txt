@@ -1,0 +1,7 @@
+login
+USER004
+advertise
+Monopoly
+30
+14
+logout

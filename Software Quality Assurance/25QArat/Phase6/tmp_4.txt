@@ -1,0 +1,28 @@
+>> login
+Enter username: martin
+ERROR: The username 'martin' does not exist!
+Enter username: create
+ERROR: The username 'create' does not exist!
+Enter username: SOMEUSER01
+Welcome SOMEUSER01!
+Account: buy-standard
+Balance: $0.00
+>> bs
+ERROR: The transaction 'bs' does not exist.
+>> refund
+ERROR: The user logged in cannot perform this action.
+>> martin
+ERROR: The transaction 'martin' does not exist.
+>> betty
+ERROR: The transaction 'betty' does not exist.
+>> 100
+ERROR: The transaction '100' does not exist.
+>> advertise
+ERROR: The user logged in cannot perform this action.
+>> Monopoly
+ERROR: The transaction 'Monopoly' does not exist.
+>> 30
+ERROR: The transaction '30' does not exist.
+>> 14
+ERROR: The transaction '14' does not exist.
+>> logout

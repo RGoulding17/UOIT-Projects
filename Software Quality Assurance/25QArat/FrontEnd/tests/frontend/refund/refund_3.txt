@@ -1,0 +1,6 @@
+login
+USER001
+refund
+USER003
+USER001
+-40

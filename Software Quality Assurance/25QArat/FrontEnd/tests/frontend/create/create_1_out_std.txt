@@ -1,0 +1,15 @@
+>> login
+Enter username: USER001
+Welcome USER001!
+Account: admin
+Balance: $100.00
+>> create
+Enter username (15 char. max): USER010
+Enter the type of user:
+	admin
+	full-standard | fs
+	buy-standard | bs
+	sell-standard | ss
+>> bs
+User 'USER010' successfully created!
+>> logout

@@ -1,0 +1,8 @@
+>> login
+Enter username: USER001
+Welcome USER001!
+Account: admin
+Balance: $100.00
+>> delete
+Enter the username to delete: USER013
+ERROR: The user 'USER013' does not exist!

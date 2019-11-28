@@ -1,0 +1,49 @@
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+seg fault calc      USER004         USER003         003 563.62
+my soul             USER004         USER002         001 900.20
+:1fps:              USER002         USER002         060 001.00
+END                                                           
+

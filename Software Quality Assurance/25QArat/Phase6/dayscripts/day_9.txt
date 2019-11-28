@@ -1,0 +1,11 @@
+login
+devon
+create
+SOMEUSER01
+bs
+USER001
+bid
+Monopoly
+30.50
+14
+logout

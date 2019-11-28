@@ -1,0 +1,11 @@
+>> login
+Enter username: USER004
+Welcome USER004!
+Account: sell-standard
+Balance: $100.00
+>> advertise
+Enter the item name (19 char. max): Monopoly
+Enter the minimum bid (in dollars): 30
+Enter the number of days for auction (max 100): 14
+'Monopoly' successfully added to the auction!
+>> logout

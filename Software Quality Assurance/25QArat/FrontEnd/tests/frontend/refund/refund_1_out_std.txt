@@ -1,0 +1,11 @@
+>> login
+Enter username: USER001
+Welcome USER001!
+Account: admin
+Balance: $100.00
+>> refund
+Enter the username of the buyer: USER003
+Enter the username of the seller: USER001
+Enter the refund amount: 40
+USER003 successfully refunded $40.00 by USER001!
+>> logout

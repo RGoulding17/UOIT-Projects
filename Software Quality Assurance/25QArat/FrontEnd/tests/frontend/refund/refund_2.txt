@@ -1,0 +1,4 @@
+login
+USER002
+refund
+logout

@@ -1,0 +1,8 @@
+>> login
+Enter username: USER002
+Welcome USER002!
+Account: full-standard
+Balance: $100.00
+>> refund
+ERROR: The user logged in cannot perform this action.
+>> logout

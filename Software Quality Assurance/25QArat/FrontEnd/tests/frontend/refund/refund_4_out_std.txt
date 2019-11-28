@@ -1,0 +1,8 @@
+>> login
+Enter username: USER001
+Welcome USER001!
+Account: admin
+Balance: $100.00
+>> refund
+Enter the username of the buyer: USER013
+ERROR: The user 'USER013' does not exist!

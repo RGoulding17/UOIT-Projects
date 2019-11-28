@@ -1,0 +1,10 @@
+login
+martin
+create
+SOMEUSER01
+bs
+bid
+Monopoly
+35
+14
+logout

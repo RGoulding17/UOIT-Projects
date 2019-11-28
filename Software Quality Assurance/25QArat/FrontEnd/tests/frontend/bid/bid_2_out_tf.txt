@@ -1,0 +1,3 @@
+10 USER001         AA 000100.00
+04 Monopoly            USER001         USER001         030.50
+00 USER001         AA 000100.00

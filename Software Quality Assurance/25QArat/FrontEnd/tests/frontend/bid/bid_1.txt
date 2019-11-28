@@ -1,0 +1,8 @@
+login
+USER003
+bid
+Monopoly
+14
+USER001
+35.00
+logout

@@ -1,0 +1,10 @@
+login
+betty
+create
+USER004
+ss
+bid
+Checkers
+30
+14
+logout

@@ -1,0 +1,8 @@
+>> login
+Enter username: USER003
+Welcome USER003!
+Account: buy-standard
+Balance: $100.00
+>> bid
+Enter the item name: Cheese
+ERROR: The item 'Cheese' does not exist!

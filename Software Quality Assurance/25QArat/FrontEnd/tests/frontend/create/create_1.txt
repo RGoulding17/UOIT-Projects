@@ -1,0 +1,6 @@
+login
+USER001
+create
+USER010
+bs
+logout

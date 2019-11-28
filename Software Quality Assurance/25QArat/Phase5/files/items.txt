@@ -1,0 +1,3 @@
+Computer                  User01          N/A             001 000150
+Monitor                   User01          N/A             030 000200
+Mouse                     User02          N/A             015 000025
