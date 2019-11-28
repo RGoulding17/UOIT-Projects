@@ -1,2 +1,2 @@
 # UOIT Projects
-a collection of various projects i created during my time at UOIT
+A collection of some of the projects I completed during my degree in Computer Science at the University of Ontario Tech University (University of Ontario Institute of Technology).
