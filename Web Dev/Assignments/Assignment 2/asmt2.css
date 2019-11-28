@@ -1,0 +1,10 @@
+.WeatherDiv {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: lightblue;
+    margin-top: 50px;
+  }
+
+  .ForecastDiv {
+    margin-top: 25px;
+  }
